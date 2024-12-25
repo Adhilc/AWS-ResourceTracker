@@ -2,11 +2,15 @@
 AWS resource Tracker using Shell Scripting a real time project that very useful the DevOps engineers  in their organizations. It helps to reduce the time taken for checking manually through console by using automated scripts.
 
 STEPS:
+
 -->Make sure aws cli is installed and configured properly.
+
 -->Clone this repository
+
 -->Execute the file (./file.sh)
 
-#Advantages of an AWS Resource Tracker Using Shell Scripting
+
+Advantages of an AWS Resource Tracker Using Shell Scripting
 1. Lightweight and Simple
 
     No need for additional programming frameworks or tools—just use Bash and the AWS CLI.
